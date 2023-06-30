@@ -8,4 +8,9 @@ At CMU, as a tech lead of my program's capstone project, I'm responsible for sel
 
 In addition to my academic and professional pursuits, I derive immense joy from competing in Coding Competitions and problem-solving in general. I really like algorithmic puzzles and chess. I've also had the honor of representing my institute at the prestigious ACM ICPC Regional Contests twice. 🏆
 
-If you're interested in discussing software engineering, exploring new projects, chess, language-acquisition or simply having a friendly conversation, feel free to reach out! Let's connect and embark on an exciting journey together. ✨
+If you're interested in discussing software engineering, exploring new projects, chess, language acquisition (currently learning `ES` 🇪🇸) or simply having a friendly conversation, feel free to reach out! Let's connect and embark on an exciting journey together. ✨
+
+Let's connect - 
+<a href="https://www.linkedin.com/in/sidpy/">
+  <img alt="Siddharth's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
