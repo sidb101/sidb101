@@ -6,7 +6,7 @@ If you're interested in discussing software engineering, exploring new projects,
 
 #### Links
 <a href="https://www.linkedin.com/in/sidpy/">
-                <img alt="Siddharth's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+                <img alt="Siddharth's LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin" />
             </a>
             &nbsp;&nbsp; 
 <!--             <a href="https://leetcode.com/sidb101/">
