@@ -6,8 +6,6 @@ If I had to define myself with a single word, it would be **'Problem Solver.'** 
 
 If you're interested in discussing software engineering, exploring new projects, language acquisition (currently learning `ES` 🇪🇸) or simply having a friendly conversation, feel free to reach out! Let's connect on LinkedIn ✨
 
-https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Brilliant_%28website%29_Logo.svg/240px-Brilliant_%28website%29_Logo.svg.png
-
 #### Links
 <a href="https://www.linkedin.com/in/sidpy/">
     <img alt="Siddharth's LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin" />
