@@ -15,10 +15,10 @@ If you're interested in discussing software engineering, exploring new projects,
     <img alt="Siddharth's Brilliant" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Brilliant_%28website%29_Logo.svg/240px-Brilliant_%28website%29_Logo.svg.png" />
 </a>
 &nbsp;&nbsp; 
-<a href="https://leetcode.com/sidb101/">
+<!-- <a href="https://leetcode.com/sidb101/">
 <img alt="Siddharth's LeetCode" width="22px" src="https://leetcode.com/_next/static/images/default_banner_logo-90cb5e77d853b670530efd537a90cdcc.svg" />
 </a>   
-&nbsp;&nbsp; 
+&nbsp;&nbsp;  -->
 <a href="https://www.duolingo.com/profile/sidb101">
 <img alt="Siddharth's Duolingo" width="22px" src="https://cdn.rcd.gg/PreMiD/websites/D/Duolingo/assets/logo.png" />
 </a>  
