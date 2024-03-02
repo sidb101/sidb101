@@ -1,10 +1,8 @@
 ### Hi there! 👋
 
-I'm Siddharth, a passionate software engineer on a never-ending quest for knowledge and innovation. Currently pursuing my Master of Software Engineering at Carnegie Mellon University, here, I'm exploring the fascinating realms of software architecture and distributed systems. 
+I'm Siddharth, a passionate software/data engineer. I recently graduated from the School of Computer Science at Carnegie Mellon University in Dec'23. I am currently working at TikTok (Bytedance), Bellevue.
 
-If I had to define myself with a single word, it would be **'Problem Solver.'** When I was in high school, I discovered Brilliant.org, and I would immerse myself in solving problems there. As I progressed to my undergraduate years, I found solace in preparing for and participating in coding competitions and ACM-ICPC. Throughout it all, one constant has remained, and I am confident it will endure for as long as I live: the sheer satisfaction I derive from solving problems, which has always been my cherished refuge. This passion has profoundly influenced my thinking patterns and my approach to any problem, whether it arises in my personal life or elsewhere.
-
-If you're interested in discussing software engineering, exploring new projects, language acquisition (currently learning `ES` 🇪🇸) or simply having a friendly conversation, feel free to reach out! Let's connect on LinkedIn ✨
+Let's connect -
 
 #### Links
 <a href="https://www.linkedin.com/in/sidpy/">
