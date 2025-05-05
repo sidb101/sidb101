@@ -1,12 +1,12 @@
 ### Hi there! 👋
 
-I'm Siddharth, a passionate software/data engineer. I graduated from the School of Computer Science at Carnegie Mellon University in Dec'23. I am currently working at AWS as a Software Engineer.
+I'm Siddharth, a passionate software/data engineer. I graduated from the School of Computer Science at Carnegie Mellon University in Dec'23. I am currently working at AWS as a Software Engineer on the Elastic Load Balancing Team.
 
 Let's connect -
 
 #### Links
 <a href="https://www.linkedin.com/in/sidpy/">
-    <img alt="Siddharth's LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin" />
+    <img alt="Siddharth's LinkedIn" width="22px" src="https://www.svgrepo.com/show/157006/linkedin.svg" />
 </a>
 &nbsp;&nbsp; 
 <a href="https://brilliant.org/profile/siddharth-7glmi8/">
