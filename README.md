@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm Siddharth, a passionate software/data engineer. I graduated from the School of Computer Science at Carnegie Mellon University in Dec'23. I am currently working at AWS as a Software Engineer on the Elastic Load Balancing Team.
+I'm Siddharth, a passionate software/data engineer. I graduated from the School of Computer Science at Carnegie Mellon University in Dec'23. Interests - Problem Solving, Systems, Data Pipelines/Platforms.
 
 Let's connect -
 
